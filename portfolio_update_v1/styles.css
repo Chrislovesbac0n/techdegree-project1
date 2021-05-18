@@ -59,11 +59,11 @@ header {
   text-align: center;
   background: url('images/new_york_project1.jpg') ;
   background-repeat: no-repeat;
-  height: 700px;
+  height: 350px;
   background-position: center;
   background-size: cover ;
   overflow: hidden;
-  padding-top: 200px;
+  padding-top: 144px;
 }
 header {
   line-height: 1.5;
